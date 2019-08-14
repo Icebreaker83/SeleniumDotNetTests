@@ -1,0 +1,20 @@
+{
+  "navigationNode": {
+    "navigationNodeValue": [ "https://redmine.nil.rs" ],
+    "navigationNodeType": "URL"
+  },
+  "dataNodes": [
+    {
+      "dataNodeId": "username",
+      "dataNodeValue": "dcankovic",
+      "dataNodeType": "INPUT",
+      "dataNodeDescription": "Login"
+    },
+    {
+      "dataNodeId": "password",
+      "dataNodeValue": "RgMjCRT9",
+      "dataNodeType": "INPUT",
+      "dataNodeDescription": "Password"
+    }
+  ]
+}
